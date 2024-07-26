@@ -1,4 +1,10 @@
 <h3 align="center">Meditation and Affirmations App</h3>
+
+<div>
+  <img src="C:\Users\alams\OneDrive\Desktop\imge5.jpg">
+</div>
+
+
 <h4>Technology used</h4>
 
 
