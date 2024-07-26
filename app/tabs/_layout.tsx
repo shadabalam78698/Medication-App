@@ -1,45 +1,23 @@
-import { Entypo, MaterialCommunityIcons } from "@expo/vector-icons";
-import { Tabs } from "expo-router";
-import Colors from "@/constants/Colors";
 import React from "react";
+import { Stack } from "expo-router";
 
-export const unstable_settings = {
-    // Ensure that reloading on `/modal` keeps a back button present.
-    initialRouteName: "(tabs)",
-};
-
-const Page = () => {
+const AffirmationsLayout = () => {
     return (
-        <Tabs
-            screenOptions={{
-                headerShown: false,
-                tabBarActiveTintColor: Colors.primary,
-            }}
-        >
-            <Tabs.Screen
-                name="nature-meditate"
+        <Stack>
+            <Stack.Screen
+                name="index"
                 options={{
-                    tabBarLabel: "Meditate",
-                    tabBarIcon: ({ color }) => (
-                        <MaterialCommunityIcons
-                            name="flower-tulip"
-                            size={24}
-                            color={color}
-                        />
-                    ),
+                    headerShown: false,
                 }}
             />
-            <Tabs.Screen
-                name="affirmations"
+            <Stack.Screen
+                name="[itemId]"
                 options={{
-                    tabBarLabel: "Affirmations",
-                    tabBarIcon: ({ color }) => (
-                        <Entypo name="open-book" size={24} color={color} />
-                    ),
+                    headerShown: false,
                 }}
             />
-        </Tabs>
+        </Stack>
     );
 };
 
-export default Page;
+export default AffirmationsLayout;
