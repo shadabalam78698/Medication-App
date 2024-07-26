@@ -1,7 +1,8 @@
 <h3 align="center">Meditation and Affirmations App</h3>
 
 <div>
-  <img src="C:\Users\alams\OneDrive\Desktop\imge5.jpg">
+ ![imge5](https://github.com/user-attachments/assets/21ec2958-c033-47f6-b787-c1011aad3300)
+
 </div>
 
 
