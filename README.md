@@ -1,8 +1,5 @@
 <h3 align="center">Meditation and Affirmations App</h3>
 
-<img src="C:\Users\alams\OneDrive\Desktop\imge5.jpg">
-![imge4](https://github.com/user-attachments/assets/9dc8b332-40e2-4ae5-b64f-1c0d07ece078)
-
 
 <h4>Technology used</h4>
 
