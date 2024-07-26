@@ -1,10 +1,10 @@
 <h3 align="center">Meditation and Affirmations App</h3>
 <div>
-<image src="screenShots/imge1.jpg" width="110">
-<image src="screenShots/imge2.jpg" width="110">
-<image src="screenShots/imge3.jpg" width="110">
-<image src="screenShots/imge4.jpg" width="110">
-<image src="screenShots/imge5.jpg" width="110">  
+<image src="screenShots/imge1.jpg" width="150">
+<image src="screenShots/imge2.jpg" width="150">
+<image src="screenShots/imge3.jpg" width="150">
+<image src="screenShots/imge4.jpg" width="150">
+<image src="screenShots/imge5.jpg" width="150">  
   </div>
 <h4>Technology used</h4>
 
