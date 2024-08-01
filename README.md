@@ -1,4 +1,4 @@
-<h3 align="center">Meditation and Affirmations App</h3>
+<h3 align="center">Meditation App</h3>
 <div>
 <image src="screenShots/imge1.jpg" width="140">
 <image src="screenShots/imge2.jpg" width="140">
